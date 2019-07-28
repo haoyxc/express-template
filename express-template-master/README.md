@@ -9,4 +9,4 @@
 
    ```
 
-3. Run `source env.sh`, 'npm install' to install dependencies, and 'npm run dev' to use nodemon!
+3. Run `source env.sh`, `npm install` to install dependencies, and `npm run dev` to use nodemon!
